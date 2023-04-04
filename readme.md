@@ -14,6 +14,8 @@ The website will be divided into three parts:
 So in the top corner it will have listed those three topics.
 
 # 3. Inspiration Sites
+Página principal (arquivo index): https://arranjosexpress.com.br/
+Página do curso de costura criativa: https://www.sp.senac.br/cursos-livres/curso-de-modelagem-e-costura-para-iniciantes
 
 <PORTUGUES>
 
@@ -31,3 +33,4 @@ O site Será dividido em três partes:
 Então, no canto superior terá listado esses três tópicos.
 
 # 3. Sites de inspiração
+https://arranjosexpress.com.br/
