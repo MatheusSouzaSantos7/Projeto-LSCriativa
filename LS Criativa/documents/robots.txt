@@ -1,4 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow: /professor.html
-Sitemap: http://lscriativa.epizy.com/sitemap.xml
+Sitemap: http://lscriativa.epizy.com/documents/sitemap.xml
