@@ -10,7 +10,7 @@ The site will be divided into two parts: The creative sewing course and the sall
 The website will be divided into three parts:
 1.Overcome creative sewing course
 2.The Creative Sewing Store.
-So in the top corner it will have listed those three topics.
+3. Students.
 
 # 4. Color pallet
 #F299B9
@@ -29,6 +29,9 @@ O site será dividido em duas partes: O curso de costura criativa e a parte de v
 
 # 2. Divisão
 O site Será dividido em três partes:
+1.O curso de costura criativa SUPERE. 
+2.A Loja de Costura Criativa.
+3. A parte dos alunos.
 
 # 4. Palheta de cores
 #F299B9 // Rosa
