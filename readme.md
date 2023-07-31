@@ -12,10 +12,6 @@ The website will be divided into three parts:
 2.The Creative Sewing Store.
 So in the top corner it will have listed those three topics.
 
-# 3. Inspiration Sites
-Main page (index file): https://arranjosexpress.com.br/
-Creative sewing course page: https://www.sp.senac.br/cursos-livres/curso-de-modelagem-e-costura-para-iniciantes
-
 # 4. Color pallet
 #F299B9
 #B87F59
@@ -33,12 +29,6 @@ O site será dividido em duas partes: O curso de costura criativa e a parte de v
 
 # 2. Divisão
 O site Será dividido em três partes:
-
-# 3. Sites de inspiração
-Página principal (arquivo index): https://arranjosexpress.com.br/
-Página do curso de costura criativa: https://www.sp.senac.br/cursos-livres/curso-de-modelagem-e-costura-para-iniciantes
-Área "Sobre mim" no index: www.multipliqueatelie.com.br
-
 
 # 4. Palheta de cores
 #F299B9 // Rosa
