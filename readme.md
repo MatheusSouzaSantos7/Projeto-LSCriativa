@@ -26,10 +26,7 @@ O site será dividido em duas partes: O curso de costura criativa e a parte de v
 
 # 2. Divisão
 O site Será dividido em três partes:
-1.Curso de costura criativa supere
-2.A loja de costura criativa.
-Então, no canto superior terá listado esses três tópicos.
 
-# 3. Sites de inspiração
-Página principal (arquivo index): https://arranjosexpress.com.br/
-Página do curso de costura criativa: https://www.sp.senac.br/cursos-livres/curso-de-modelagem-e-costura-para-iniciantes
+1.Curso de costura criativa supere.
+2.A loja de costura criativa.
+3. A parte de alunos.
