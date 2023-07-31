@@ -8,7 +8,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles/aviamento-personalizado.css">
-    <link rel="icon" type="image/x-icon" href="img/logoloja.jpg" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous"> <!-- CSS do Bootstrap -->
+    <link rel="icon" type="image/x-icon" href="img/logoloja.png" />
     <title>Compre seu aviamento</title>
 </head>
     <!-- Google tag (gtag.js) -->
@@ -22,35 +23,104 @@
     </script>
     <!-- Google tag (gtag.js) end -->
 <body>
+    <!-- Bootstrap -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <!-- Fim do Bootstrap -->
+
     <header>
         <iframe src="menu.html" width="100%" height="210"></iframe>
     </header>
-    <section>
-        <h1>Peça seu aviamento com a LS Criativa</h1>
-            <p>Queremos oferecer a você a oportunidade de personalizar completamente a decoração da sua casa. Com a nossa variedade de produtos, como cortinas, almofadas, estojos, bolsas e outros artigos, você pode escolher não só o tema, mas também as cores que mais combinam com o seu estilo.<br></p>
+    <address id="contatos">
+        <div id="icones">
+            <p id="id_whatsapp"><a href="https://api.whatsapp.com/message/36UIBVPGCJVYK1?autoload=1&app_absent=0" target="_blank"><img src="https://img.icons8.com/ios/50/null/whatsapp--v1.png" alt="icone do Whatsapp indicando link para o Whatsapp de Luzia Souza" width="40" height="40"></p>
 
-            <p>Nossas cortinas são feitas com tecidos de alta qualidade, e agora você pode escolher entre uma grande variedade de cores e estampas para torná-las ainda mais exclusivas. Adicione um toque pessoal ao seu lar e deixe as suas cortinas refletirem a sua personalidade.<br></p>
-                
-            <p>As nossas almofadas também são personalizáveis. Com o nosso serviço de personalização, você pode escolher a cor e o tema que melhor se adapta ao seu espaço. Escolha entre tecidos macios e enchimentos de alta qualidade para ter uma almofada que traz o máximo de conforto e estilo à sua casa.</p>
-    </section>
+            <p id="id_facebook"><a href="https://www.facebook.com/luzia.souza.1485" target="_blank"><img width="40" height="40" src="https://img.icons8.com/ios/50/facebook-new.png" alt="icone do Facebook indicando o link para o Facebook de Luzia Souza"/></p>
+
+            <p id="id_instagram"><a href="https://www.instagram.com/ls_criativa_loja/" target="_blank"><img src="https://img.icons8.com/ios/50/null/instagram-new--v1.png" alt="icone do Instagram indicando o link para o Instagram de Luzia Souza" width="40" height="40"></a></p>
+        </div>
+    </address>
     <section>
-        <h2>Qual aviamento você quer escolher?</h2>
-            <h3>Almofadas</h3>
-                <p>
-                    Nossas almofadas são personalizáveis ao gosto do cliente, com opções de estampas e cores para todos os gostos. Oferecemos modelos para todos os ambientes, feitas com tecidos macios e enchimentos de alta qualidade para garantir o máximo de conforto. Escolha entre almofadas decorativas para dar um toque de estilo ao seu sofá ou cama, ou almofadas de apoio para garantir o máximo de conforto em momentos de relaxamento. Adicione um toque de conforto e estilo à sua casa com as nossas almofadas personalizadas. Venha conferir a nossa seleção agora mesmo!
-                </p>
+        <div class="titulo">
+            <h1 id="titulo">Peça seu produto com a LS Criativa</h1>
+        </div>
+        <img id="imagem1" src="img/costureira1_editado.jpg" alt="Foto de mulher costurando">
+        <div id="caixa">
+            <div id="container_texto">
+                <h1>Olhe só!</h1>
+                <p>Queremos oferecer a você a oportunidade de personalizar completamente a decoração da sua casa. Com a nossa variedade de produtos, como cortinas, almofadas, estojos, bolsas e outros artigos, você pode escolher não só o tema, mas também as cores que mais combinam com o seu estilo.<br></p>
+
+                <p>Nossas cortinas são feitas com tecidos de alta qualidade, e agora você pode escolher entre uma grande variedade de cores e estampas para torná-las ainda mais exclusivas. Adicione um toque pessoal ao seu lar e deixe as suas cortinas refletirem a sua personalidade.<br></p>
+                    
+                <p>As nossas almofadas também são personalizáveis. Com o nosso serviço de personalização, você pode escolher a cor e o tema que melhor se adapta ao seu espaço. Escolha entre tecidos macios e enchimentos de alta qualidade para ter uma almofada que traz o máximo de conforto e estilo à sua casa.</p>
+            </div>
+        </div>
     </section>
-    <section>
-        <h3>Cortinas</h3>
-        <p>
-            Nossas cortinas são personalizáveis ao gosto do cliente, com opções de estampas e cores para todos os gostos. Oferecemos modelos para cozinha, quarto ou sala, feitas com tecidos de alta qualidade e durabilidade. Escolha entre cortinas de voal para um toque mais leve e elegante. Adicione um toque de estilo e funcionalidade à sua casa com as nossas cortinas personalizadas. Venha conferir a nossa seleção agora mesmo!
-        </p>
-    </section>
-    <section>
-        <h3>Estojos</h3>
-        <p>
-            Nossos estojos compactos são personalizáveis ao gosto do cliente, com opções de estampas e cores para todos os gostos. Feitos com materiais duráveis e de alta qualidade, nossos estojos garantem a segurança e proteção dos seus pertences. São perfeitos para levar apenas o essencial, seja para o trabalho, faculdade ou viagens. Adicione um toque de praticidade e estilo ao seu dia a dia com os nossos estojos personalizados. Venha conferir a nossa seleção agora mesmo!
-        </p>
-    </section>
+    <h2 id="titulo_carrossel">Qual produto você quer escolher?</h2>
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+            <!-- Carrossel 1 -->
+          <div class="carousel-item active">
+            <div id="texto_carrossel1">
+                <div id="fundoescuro1">
+                        <h3 id="titulo_carrossel">Almofadas</h3>
+                            <p>
+                                Nossas almofadas são personalizáveis ao gosto do cliente, com opções de estampas e cores para todos os gostos. Oferecemos modelos para todos os ambientes, feitas com tecidos macios e enchimentos de alta qualidade para garantir o máximo de conforto. Escolha entre almofadas decorativas para dar um toque de estilo ao seu sofá ou cama, ou almofadas de apoio para garantir o máximo de conforto em momentos de relaxamento. Adicione um toque de conforto e estilo à sua casa com as nossas almofadas personalizadas. Venha conferir a nossa seleção agora mesmo!
+                            </p>
+                            
+                </div>
+           </div>
+           <p>Foto de Michael Burrows: https://www.pexels.com/pt-br/foto/anonimo-ocupado-ativo-roupa-7147610/</p>
+          </div>
+          <!-- Carrossel 2 -->
+          <div class="carousel-item">
+            <div id="texto_carrossel2">
+                <div id="fundoescuro2">
+                        <h3 id="titulo_carrossel">Cortinas</h3>
+                            <p>
+                                Nossas cortinas são personalizáveis ao gosto do cliente, com opções de estampas e cores para todos os gostos. Oferecemos modelos para cozinha, quarto ou sala, feitas com tecidos de alta qualidade e durabilidade. Escolha entre cortinas de voal para um toque mais leve e elegante. Adicione um toque de estilo e funcionalidade à sua casa com as nossas cortinas personalizadas. Venha conferir a nossa seleção agora mesmo!
+                            </p>
+                            
+                </div>
+           </div>
+           <p>Foto de Michael Burrows: https://www.pexels.com/pt-br/foto/anonimo-ocupado-ativo-roupa-7147610/</p>
+          </div>
+           <!-- Carrossel 3 -->
+          <div class="carousel-item">
+            <div id="texto_carrossel3">
+                <div id="fundoescuro3">
+                    <h3 id="titulo_carrossel">Estojos</h3>
+                    <p>
+                        Nossos estojos compactos são personalizáveis ao gosto do cliente, com opções de estampas e cores para todos os gostos. Feitos com materiais duráveis e de alta qualidade, nossos estojos garantem a segurança e proteção dos seus pertences. São perfeitos para levar apenas o essencial, seja para o trabalho, faculdade ou viagens. Adicione um toque de praticidade e estilo ao seu dia a dia com os nossos estojos personalizados. Venha conferir a nossa seleção agora mesmo!
+                    </p>
+                </div>
+            </div>
+            <p>Foto de cottonbro studio: https://www.pexels.com/pt-br/foto/anonimo-pano-roupa-corte-4621904/</p>
+        </div>
+        <a class="carousel-control-prev" id="imagem_carrossel" href="#carouselExampleIndicators" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Anterior</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Próximo</span>
+        </a>
+      </div>
+    </div>
+    <footer>
+        <address id="contato_footer">
+            <h1 style="font-family: 'Caprasimo', 'Franklin Gothic Medium', sans-serif;
+            ">CONTATO</h1><br>
+            <a id="contato_instagram" href="https://www.instagram.com/ls_criativa_loja/" target="_blank">Instagram<a><br>
+            <a id="contato_facebook" href="https://www.facebook.com/luzia.souza.1485" target="_blank">Facebook</a><br>
+            <a id="contato_whatsapp" href="https://api.whatsapp.com/message/36UIBVPGCJVYK1?autoload=1&app_absent=0" target="_blank">Whatsapp</a>
+        </address>
+    </footer>
 </body>
 </html>

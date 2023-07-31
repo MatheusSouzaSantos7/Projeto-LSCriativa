@@ -16,6 +16,13 @@ So in the top corner it will have listed those three topics.
 Main page (index file): https://arranjosexpress.com.br/
 Creative sewing course page: https://www.sp.senac.br/cursos-livres/curso-de-modelagem-e-costura-para-iniciantes
 
+# 4. Color pallet
+#F299B9
+#B87F59
+#EDBC00
+#D91E1E
+#EBCA85
+
 <PORTUGUES>
 
 # 1. Introdução
@@ -33,3 +40,12 @@ Então, no canto superior terá listado esses três tópicos.
 # 3. Sites de inspiração
 Página principal (arquivo index): https://arranjosexpress.com.br/
 Página do curso de costura criativa: https://www.sp.senac.br/cursos-livres/curso-de-modelagem-e-costura-para-iniciantes
+Área "Sobre mim" no index: www.multipliqueatelie.com.br
+
+
+# 4. Palheta de cores
+#F299B9 // Rosa
+#B87F59 // Marrom
+#EDBC00 // Amarelo
+#D91E1E // Vermelho
+#EBCA85 // Marrom claro
